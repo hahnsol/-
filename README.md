@@ -4,14 +4,14 @@
 <br>
 <br>
 
-[1. 'Guide For You' 웹 서비스 개발 프로젝트](https://github.com/hahnsol/web_service_GuideForYou_with_springFramework) {: target="_blank"}
+[1. 'Guide For You' 웹 서비스 개발 프로젝트](https://github.com/hahnsol/web_service_GuideForYou_with_springFramework) {:target="_blank"}
 
 <br>
 <br>
 
-[2. Openstack(stein 버전) 메뉴얼 설치](https://github.com/hahnsol/openstack_stein_install) {: target="_blank"}
+[2. Openstack(stein 버전) 메뉴얼 설치](https://github.com/hahnsol/openstack_stein_install) {:target="_blank"}
 
 <br>
 <br>
 
-[3. '코로나19發 체온측정 및 모니터링 자동화 시스템 구축' 프로젝트](https://github.com/hahnsol/cccr_temperatureMonitoringService_2020) {: target="_blank"}
+[3. '코로나19發 체온측정 및 모니터링 자동화 시스템 구축' 프로젝트](https://github.com/hahnsol/cccr_temperatureMonitoringService_2020) {:target="_blank"}
