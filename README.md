@@ -14,4 +14,9 @@
 <br>
 <br>
 
-[3. '코로나19發 체온측정 및 모니터링 자동화 시스템 구축' 프로젝트](https://github.com/hahnsol/cccr_temperatureMonitoringService_2020)
+[3. Kubernetes 설치_kubeadm 사용](https://github.com/hahnsol/install-Kubernetes-with-kubeadm)
+
+<br>
+<br>
+
+[4. '코로나19發 체온측정 및 모니터링 자동화 시스템 구축' 프로젝트](https://github.com/hahnsol/cccr_temperatureMonitoringService_2020)
